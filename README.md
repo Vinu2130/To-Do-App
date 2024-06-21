@@ -1,1 +1,1 @@
-# This is To-Do app which has GUI and CLI feature
+# This is a To-Do app which has GUI and CLI feature
